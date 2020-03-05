@@ -1,4 +1,4 @@
 # NLP-UT
 
-### CA1
-Language Model (on Persian text)
+#### CA1
+Language Model & N-grams (on Persian text)
