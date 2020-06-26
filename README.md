@@ -16,4 +16,4 @@ Part of Speech (POS) Tagging
 Working with Bert and Elmo
 
 #### CA6
-Machine Translation + Use of OpenNMT
+Machine Translation + Transliteration + Use of OpenNMT
